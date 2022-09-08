@@ -1,0 +1,27 @@
+*{
+    width:auto;
+    margin: auto;
+    padding: auto;
+    
+}
+body {
+    background-color: rgb(230, 251, 255);
+ }
+ h1 {
+    color: #0d6efd;
+    margin-left: 40px;
+ }
+ div.card {
+    background-color:rgb(60, 211, 241);
+ }
+ div#prof-backg img {
+    width: 100%;
+    border-radius: 32px 32px 32px 32px; 
+    height: 400px;
+ }
+ div.container {
+    border-radius: 32px 32px 32px 32px;
+    background-color:rgb(60, 211, 241);
+ }
+/*se que tengo que usar los div+etiquetas creadas, pero no me responde
+
