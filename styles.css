@@ -1,0 +1,45 @@
+*{
+    width:auto;
+    margin: auto;
+    padding: auto;
+    
+}
+body {
+    background-color: rgb(230, 251, 255);
+ }
+ h1 {
+    color: #0d6efd;
+    margin-left: 40px;
+ }
+ h4 {
+   color: #0b4bab;
+   text-align: center
+}
+ /*div.card {
+    ;}*/
+    div#info-img img {
+     border: solid #0d6efd;
+      border-radius: 50%; 
+      width: 252px;       
+      height: 252px;
+      margin-top: -200px;
+      z-index: 1;
+   }
+ div#prof-backg img {
+    width: 100%;
+    border-radius: 32px 32px 0px 0px; 
+    height: 400px;
+ }
+ div.container {
+    border: 2px solid #0d6efd;
+    border-radius: 32px 32px 32px 32px;
+    background-color:rgb(132, 235, 255);
+    margin: auto;
+    width: 90%;
+ }
+ div.containergral {
+   border: 2px solid #0d6efd;
+   border-radius: 32px 32px 32px 32px;
+   background-color:rgb(132, 235, 255)
+}
+
