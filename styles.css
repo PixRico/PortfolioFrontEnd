@@ -11,17 +11,35 @@ body {
     color: #0d6efd;
     margin-left: 40px;
  }
- div.card {
-    background-color:rgb(60, 211, 241);
- }
+ h4 {
+   color: #0b4bab;
+   text-align: center
+}
+ /*div.card {
+    ;}*/
+    div#info-img img {
+     border: solid #0d6efd;
+      border-radius: 50%; 
+      width: 252px;       
+      height: 252px;
+      margin-top: -200px;
+      z-index: 1;
+   }
  div#prof-backg img {
     width: 100%;
-    border-radius: 32px 32px 32px 32px; 
+    border-radius: 32px 32px 0px 0px; 
     height: 400px;
  }
  div.container {
+    border: 2px solid #0d6efd;
     border-radius: 32px 32px 32px 32px;
-    background-color:rgb(60, 211, 241);
+    background-color:rgb(132, 235, 255);
+    margin: auto;
+    width: 90%;
  }
-/*se que tengo que usar los div+etiquetas creadas, pero no me responde
+ div.containergral {
+   border: 2px solid #0d6efd;
+   border-radius: 32px 32px 32px 32px;
+   background-color:rgb(132, 235, 255)
+}
 
